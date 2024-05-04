@@ -1,12 +1,12 @@
 # task_management_app
 
-[//]: # (########################  Group 7 ############################).
+[//]: # (########################  Group 7 ############################). </br>
 
-[//]: # (1. Md Asif Intesar - 2022430)
+[//]: # (1. Md Asif Intesar - 2022430) </br>
 
-[//]: # (2. Farzana Islam - 1910058)
+[//]: # (2. Farzana Islam - 1910058) </br>
 
-[//]: # (3. Sanjida Afrin - 2020729)
+[//]: # (3. Sanjida Afrin - 2020729) </br>
 
 
 ## Getting Started
